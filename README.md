@@ -1,7 +1,7 @@
 # San Jose Solar Seekers Picture of the Day
 Join fellow astro lovers with this web application!
 
-<img width="795" alt="NASA" src="https://user-images.githubusercontent.com/111663583/197368551-35dd6c44-d046-431e-9597-bb8691f8bdc5.png">
+<p align="center"><img alt="NASA picture of the day" src="https://user-images.githubusercontent.com/111663583/201509021-bc21a09f-df3c-4e78-862c-eae4f109fc15.gif"></p>
 
 **Link to project:** [Picture of the Day](https://nicoledicochea.github.io/nasa-picture-of-the-day/)
 
